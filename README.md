@@ -2,12 +2,6 @@
 
 🔒 Hi, I'm Jan Brychta, and this is my project that combines ESP32 and it's WiFi ability and RFID reader RC522 to create a remote RFID lock 🔒
 
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## Authors
 
 - [@Omikron](https://github.com/BrychtaJan)
